@@ -49,3 +49,4 @@ export default tseslint.config({
 })
 ```
 # react-ts-tailwind-starter
+# react-ts-tailwind-starter
